@@ -438,7 +438,6 @@ if(score==5){
    card10.remove();
    drawSprites();
    looseSound.play();
-   bgSound.stop();
    clockSound.stop();
  }
 textSize(30);
